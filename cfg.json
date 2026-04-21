@@ -1,10 +1,1 @@
-HOSTS='xf.nmslb.com|xf.oetnn.cn|xfchart.oetnn.cn|'
-SECRET='de9db2360c3b4bec820b3f782c33b64fd73c0ad89fb947aa'
-SIGN=$(echo -n "${HOSTS}${SECRET}" | md5sum | awk '{print $1}')
-
-cat <<EOF
-{
-  "hosts": ["xf.nmslb.com", "xf.oetnn.cn", "xfchart.oetnn.cn", "xfchart.sviprd.com"],
-  "sign": "${SIGN}"
-}
-EOF
+{"hosts":["xf.nmslb.com","xf.oetnn.cn","xfchart.oetnn.cn"],"sign":"c6e1113556bb93499838d782d6e7b0b3"}
