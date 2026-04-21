@@ -4,7 +4,7 @@ SIGN=$(echo -n "${HOSTS}${SECRET}" | md5sum | awk '{print $1}')
 
 cat <<EOF
 {
-  "hosts": ["xf.nmslb.com", "xf.oetnn.cn", "xfchart.oetnn.cn"],
+  "hosts": ["xf.nmslb.com", "xf.oetnn.cn", "xfchart.oetnn.cn", "xfchart.sviprd.com"],
   "sign": "${SIGN}"
 }
 EOF
