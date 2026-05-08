@@ -1,9 +1,10 @@
 {
+  "_README": "字体仅包含 BMP 范围, 不要使用 👋👆🌙☀ 等 U+1F000+ emoji, 否则客户端显示为 '?'. 可以使用: ← → ↑ ↓ ↔ ✓ ✗ ★ ☀ ⚠ ✦ ◆ • 等 BMP 字符, 以及 FontAwesome 图标 (\\uF000-\\uF8FF).",
   "version": 1,
   "enabled": true,
   "force_show": false,
-  "title_zh": "👋 欢迎使用 XF",
-  "title_en": "Welcome to @XFchart",
+  "title_zh": "欢迎使用 XF v6.4",
+  "title_en": "Welcome to XF v6.4",
   "subtitle_zh": "本期更新公告",
   "subtitle_en": "What's new in this version",
   "bullets": [
@@ -12,11 +13,11 @@
       "en": "<-> Swipe: switch menu pages"
     },
     {
-      "zh": "👆 长按 左侧菜单: 收藏/取消到主页常用",
-      "en": "Long press menu: add/remove from Home"
+      "zh": "◆ 长按 左侧菜单: 收藏/取消到主页常用",
+      "en": "Hold menu: add/remove from Home"
     },
     {
-      "zh": "👆👆 双击标题: 平滑回到顶部",
+      "zh": "◆◆ 双击标题: 平滑回到顶部",
       "en": "Double tap title: smooth scroll to top"
     },
     {
@@ -24,7 +25,7 @@
       "en": "Pull down at top: refresh page"
     },
     {
-      "zh": "🌙☀ 系统工具 → 主题: 暗色/亮色 切换",
+      "zh": "✦ 系统工具 → 主题: 暗色/亮色 切换",
       "en": "System Tools -> Theme: Dark/Light"
     }
   ],
