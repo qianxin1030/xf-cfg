@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "enabled": true,
+  "force_show": false,
+  "title_zh": "👋 欢迎使用 XF",
+  "title_en": "Welcome to @XFchart",
+  "subtitle_zh": "本期更新公告",
+  "subtitle_en": "What's new in this version",
+  "bullets": [
+    {
+      "zh": "↔ 左右滑动: 快速切换菜单页",
+      "en": "<-> Swipe: switch menu pages"
+    },
+    {
+      "zh": "👆 长按 左侧菜单: 收藏/取消到主页常用",
+      "en": "Long press menu: add/remove from Home"
+    },
+    {
+      "zh": "👆👆 双击标题: 平滑回到顶部",
+      "en": "Double tap title: smooth scroll to top"
+    },
+    {
+      "zh": "↓ 顶部继续下拉: 刷新当前页",
+      "en": "Pull down at top: refresh page"
+    },
+    {
+      "zh": "🌙☀ 系统工具 → 主题: 暗色/亮色 切换",
+      "en": "System Tools -> Theme: Dark/Light"
+    }
+  ],
+  "ok_zh": "我知道了",
+  "ok_en": "Got it"
+}
