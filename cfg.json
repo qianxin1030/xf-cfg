@@ -1,1 +1,6 @@
-{"hosts":["xf.nmslb.com","xf.oetnn.cn","xfchart.oetnn.cn"],"sign":"c6e1113556bb93499838d782d6e7b0b3"}
+{
+  "hosts": [
+    "xf.nmslb.com"
+  ],
+  "sign": "10cf09235a1f74e6f5138ec180545a45"
+}
